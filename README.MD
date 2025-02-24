@@ -53,5 +53,7 @@ Este es un proyecto de Java que simula un sistema de gestión de una biblioteca.
 
 - **Juan José Basto González**
 - **Liseth Natalia Ayala Acevedo**
+-**Junior Esneider Rueda Cadena**
+-**Kelly Jhonna Rondon Portilla**
 - LinkedIn: [Juan José Basto González](https://www.linkedin.com/in/juan-jose-basto-gonzalez-49945023a/?locale=en_US)
   GitHub: [JuanJoseBastoGonzalez](https://github.com/JuanJoseBastoGonzalez)
