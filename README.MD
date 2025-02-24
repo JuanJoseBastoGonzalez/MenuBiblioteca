@@ -1,3 +1,4 @@
+```
 # BibliotecaTaller
 
 Este es un proyecto de Java que simula un sistema de gestión de una biblioteca. Permite realizar operaciones como solicitar libros, devolver libros, crear usuarios y agregar nuevos libros al sistema.
@@ -26,3 +27,31 @@ Este es un proyecto de Java que simula un sistema de gestión de una biblioteca.
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/JuanJoseBastoGonzalez/MenuBiblioteca.git
+```
+
+1. Navega al directorio del proyecto:
+
+   bash
+
+   Copy
+
+   ```
+   cd MenuBiblioteca
+   ```
+
+2. Compila y ejecuta el proyecto con Maven:
+
+   bash
+
+   Copy
+
+   ```
+   mvn clean compile exec:java
+   ```
+
+## Autor
+
+- **Juan José Basto González**
+- **Liseth Natalia Ayala Acevedo**
+- LinkedIn: [Juan José Basto González](https://www.linkedin.com/in/juan-jose-basto-gonzalez-49945023a/?locale=en_US)
+  GitHub: [JuanJoseBastoGonzalez](https://github.com/JuanJoseBastoGonzalez)
